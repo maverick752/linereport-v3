@@ -1,0 +1,5 @@
+{
+  "name": "Manufacturing Performance Tracker",
+  "description": "An application to record units produced, scrap rate across different shifts, track performance with charts, and provide AI-driven feedback on trends and KPIs using Gemini.",
+  "requestFramePermissions": []
+}
